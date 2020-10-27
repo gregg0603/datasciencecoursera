@@ -1,2 +1,2 @@
 ## This is a markdown file
-git commit -m “<commit message>”
+git commit -m “<just following instruction>”
